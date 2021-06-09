@@ -1,0 +1,33 @@
+body
+{
+  background-color: #33ccff;
+  }
+  #text
+{
+  text-align: center;
+  color: white;
+}
+hr
+{
+  width:10%;
+  background-color: inherit;
+  border: none;
+  border-top: dotted;
+  border-top-width: 7px;
+  border-color: #d9d9d9;
+}
+h1,h2,h3
+{
+  color: white;
+  text-decoration:underline;
+}
+
+.image:hover
+{
+  background-color: white;
+}
+#information
+{
+  color: white;
+  text-align: center;
+}
